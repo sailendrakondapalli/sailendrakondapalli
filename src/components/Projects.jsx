@@ -42,6 +42,38 @@ export default function Projects() {
       image: 'https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&h=600&fit=crop',
       liveUrl: 'https://syvenevents.vercel.app/',
     },
+    {
+      id: 5,
+      title: 'Travel Agency Website',
+      description: 'Full-featured travel agency website with tour packages and booking.',
+      tech: ['HTML5', 'CSS3', 'JavaScript'],
+      image: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=600&fit=crop',
+      liveUrl: 'https://www.saravanatravel.in/',
+    },
+    {
+      id: 6,
+      title: 'Women Empowerment Platform',
+      description: 'Inspiring website for a women empowerment coach and speaker.',
+      tech: ['HTML5', 'CSS3', 'JavaScript'],
+      image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&h=600&fit=crop',
+      liveUrl: 'http://writeyourownscript.in/',
+    },
+    {
+      id: 7,
+      title: 'Fitness & Motivation Website',
+      description: 'Fitness trainer & motivator website for 40+ age group transformation.',
+      tech: ['HTML5', 'CSS3', 'JavaScript'],
+      image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop',
+      liveUrl: 'https://jcmsecondprime.in/',
+    },
+    {
+      id: 8,
+      title: 'Business / Brand Website',
+      description: 'Professional business website with modern branding and design.',
+      tech: ['HTML5', 'CSS3', 'JavaScript'],
+      image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop',
+      liveUrl: 'https://aslen.in/',
+    },
   ]
 
   return (

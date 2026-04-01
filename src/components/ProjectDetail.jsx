@@ -64,8 +64,25 @@ export default function ProjectDetail() {
         'https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=400&h=300&fit=crop'
       ]
     },
-    4: {
-      title: 'Events & Catering Website',
+    8: {
+      title: 'Business / Brand Website',
+      description: 'Professional business website with modern branding and design.',
+      fullDescription: 'A sleek and professional business website built to establish a strong online brand presence. Features modern design, clear service sections, and a compelling call-to-action to convert visitors into clients.',
+      tech: ['HTML5', 'CSS3', 'JavaScript'],
+      image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&h=800&fit=crop',
+      liveUrl: 'https://aslen.in/',
+      challenges: [
+        'Creating a strong brand identity through design',
+        'Building a fast-loading, SEO-friendly structure',
+        'Designing clear service sections with strong CTAs'
+      ],
+      testimonial: 'Sailendra delivered exactly what I imagined. The design is clean, modern and professional!',
+      gallery: [
+        'https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=300&fit=crop',
+        'https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=400&h=300&fit=crop',
+        'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=300&fit=crop'
+      ]
+    }
       description: 'Marriage, birthday events and catering services platform.',
       fullDescription: 'A comprehensive website for event planning and catering services, featuring event packages for marriages, birthdays, and other celebrations. Includes venue options, catering menus, and booking system to help clients plan their special occasions with ease.',
       tech: ['React', 'Modern Design', 'Event Management', 'Responsive'],

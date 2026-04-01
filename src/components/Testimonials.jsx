@@ -9,15 +9,33 @@ export default function Testimonials() {
 
   const testimonials = [
     {
-      name: 'Happy Client',
-      role: 'Business Owner',
-      text: 'Sailendra delivered exactly what I imagined. Amazing work!',
+      name: 'Saravana Travels',
+      role: 'Travel Agency Owner',
+      text: 'Sailendra built us a stunning travel website that perfectly showcases our tour packages. Very professional and delivered on time!',
       rating: 5,
     },
     {
-      name: 'Satisfied Customer',
+      name: 'Write Your Own Script',
+      role: 'Women Empowerment Coach',
+      text: 'My website looks absolutely amazing! Sailendra understood my vision and created something that truly represents my brand and mission.',
+      rating: 5,
+    },
+    {
+      name: 'JCM Second Prime',
+      role: 'Fitness Trainer & Motivator',
+      text: 'Excellent work! The website captures the energy and motivation I bring to my 40+ clients. Fast delivery and great communication throughout.',
+      rating: 5,
+    },
+    {
+      name: 'Aslen',
+      role: 'Business Owner',
+      text: 'Sailendra delivered exactly what I imagined. The design is clean, modern and professional. Highly recommend his services!',
+      rating: 5,
+    },
+    {
+      name: 'Happy Client',
       role: 'Entrepreneur',
-      text: 'Very professional and fast delivery.',
+      text: 'Very professional and fast delivery. The website exceeded my expectations. Will definitely work with Sailendra again!',
       rating: 5,
     },
   ]
